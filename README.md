@@ -36,7 +36,7 @@ We found that death had the most reactions on Christmas making up 28.4% of drug 
 ### Top Five Brands of one Holiday
 We found that Enbrel, which treats autoimmune diseases, came up the most at 57.8% of hospital visits. Cosentyx came up the second most at 11.8% which is used to treat moderate to severe plaque psoriasis.
 <p align="center">
-  <img width="500" height="450" src="https://github.com/anthonytapias/Adverse-Drug-Events-A-Deep-Dive-Into-The-FDA/blob/master/img/top_brands_christmas.png">
+  <img width="500" height="425" src="https://github.com/anthonytapias/Adverse-Drug-Events-A-Deep-Dive-Into-The-FDA/blob/master/img/top_brands_christmas.png">
 </p>
 
 ### Top Five Adverse Brands Across All Holidays
