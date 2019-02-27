@@ -46,7 +46,7 @@ We used SQL-Alchemy to aggregate all the data of the number of drug related even
 </p>
 
 ### Top Five Reactions Across All Holidays
-Drug ineffectiveness was the most frequent reaction across all the observed holidays at 30.2%, death made up 20.7% of the data while nausea made up 17.2% of the data.
+Drug ineffectiveness was the most frequent reaction across all the observed holidays at 30.2%, death made up 20.7% of the data while nausea made up 17.2% of the dataV.
 <p align="center">
   <img src="https://github.com/anthonytapias/Adverse-Drug-Events-A-Deep-Dive-Into-The-FDA/blob/master/img/top_5_reactions_all_holidays.png">
 </p>
@@ -58,15 +58,15 @@ Here are our obversations of the data we acquired containing the number of death
 </p>
 
 ### Suicides Across All Holidays
-
+Christmas made up the most suicides in drug related adverse events followed by Cannabis day and Thanksgiving. 
 <p align="center">
-  <img src="https://github.com/anthonytapias/Adverse-Drug-Events-A-Deep-Dive-Into-The-FDA/blob/master/img/deaths_and_suicides_with_bottomtab.png">
+  <img src="https://github.com/anthonytapias/Adverse-Drug-Events-A-Deep-Dive-Into-The-FDA/blob/master/img/suicides_per_holiday.png">
 </p>
 
 ### Attempted Suicides Across All Holidays
-
+Halloween had the most attempted suicides followed by Valentines day and Halloween. 
 <p align="center">
-  <img src="https://github.com/anthonytapias/Adverse-Drug-Events-A-Deep-Dive-Into-The-FDA/blob/master/img/deaths_and_suicides_with_bottomtab.png">
+  <img src="https://github.com/anthonytapias/Adverse-Drug-Events-A-Deep-Dive-Into-The-FDA/blob/master/img/attempted_suicides.png">
 </p>
 
 
