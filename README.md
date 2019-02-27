@@ -36,19 +36,19 @@ We found that death had the most reactions on Christmas making up 28.4% of drug 
 ### Top Five Brands of one Holiday
 We found that Enbrel, which treats autoimmune diseases, came up the most at 57.8% of hospital visits. Cosentyx came up the second most at 11.8% which is used to treat moderate to severe plaque psoriasis.
 <p align="center">
-  <img src="https://github.com/anthonytapias/Adverse-Drug-Events-A-Deep-Dive-Into-The-FDA/blob/master/img/top_brands_christmas.png">
+  <img width="500" height="475" src="https://github.com/anthonytapias/Adverse-Drug-Events-A-Deep-Dive-Into-The-FDA/blob/master/img/top_brands_christmas.png">
 </p>
 
 ### Top Five Adverse Brands Across All Holidays
 We used SQL-Alchemy to aggregate all the data of the number of drug related events a brand was associated with and compiled gthe results into a pie chart. We found that Enbrel again come up as the most in drug related adverse events with 35.5%, Makena,  is a progestin medication which is used to prevent preterm birth in pregnant women with a history of the condition and to treat gynecological disorders, making up 19% of the adverse events and Invokana, a medication used for the treatment of type 2 diabetes, which made 18.3% of the data.
 <p align="center">
-  <img src="https://github.com/anthonytapias/Adverse-Drug-Events-A-Deep-Dive-Into-The-FDA/blob/master/img/top_5_brands_all_holidays.png">
+  <img width="500" height="475" src="https://github.com/anthonytapias/Adverse-Drug-Events-A-Deep-Dive-Into-The-FDA/blob/master/img/top_5_brands_all_holidays.png">
 </p>
 
 ### Top Five Reactions Across All Holidays
 Drug ineffectiveness was the most frequent reaction across all the observed holidays at 30.2%, death made up 20.7% of the data while nausea made up 17.2% of the dataV.
 <p align="center">
-  <img src="https://github.com/anthonytapias/Adverse-Drug-Events-A-Deep-Dive-Into-The-FDA/blob/master/img/top_5_reactions_all_holidays.png">
+  <img width="500" height="475" src="https://github.com/anthonytapias/Adverse-Drug-Events-A-Deep-Dive-Into-The-FDA/blob/master/img/top_5_reactions_all_holidays.png">
 </p>
 
 ### Deaths Across All Holidays
