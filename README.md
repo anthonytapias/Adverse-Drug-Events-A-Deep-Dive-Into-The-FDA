@@ -26,7 +26,7 @@ We then created queries (in the queries.py file) for the frontend of our app. Us
 In order to have a visual analysis of the data, we created several pie charts and graphs to display our data. This was written in HTML to be displayed in the Flask app. We found astonishing results and insights from our pie charts and graphs.
 Here is what we found: We found that auto-immune disease medication came up frequently across all holidays as an adverse events.
 
-### Example of Top Five Reactions of one Holiday
+### Top Five Reactions of one Holiday
 We found that death had the most reactions on Christmas making up 28.4% of drug related events while drug ineffectiveness made up 25.1% of the drug related events. Interestingly off-label use made up the third most of drug related events at 19.4%.
 <p align="center">
   <img width="600" height="600" src="https://github.com/anthonytapias/Adverse-Drug-Events-A-Deep-Dive-Into-The-FDA/blob/master/img/top_5_reactions_christmas.png">
@@ -39,21 +39,36 @@ We found that Enbrel, which treats autoimmune diseases, came up the most at 57.8
   <img src="https://github.com/anthonytapias/Adverse-Drug-Events-A-Deep-Dive-Into-The-FDA/blob/master/img/top_brands_christmas.png">
 </p>
 
-### Top Five Adverse Brands Across All Holiday
-We used SQL-Alchemy to aggregate
+### Top Five Adverse Brands Across All Holidays
+We used SQL-Alchemy to aggregate all the data of the number of drug related events a brand was associated with and compiled gthe results into a pie chart. We found that Enbrel again come up as the most in drug related adverse events with 35.5%, Makena,  is a progestin medication which is used to prevent preterm birth in pregnant women with a history of the condition and to treat gynecological disorders, making up 19% of the adverse events and Invokana, a medication used for the treatment of type 2 diabetes, which made 18.3% of the data.
 <p align="center">
   <img src="https://github.com/anthonytapias/Adverse-Drug-Events-A-Deep-Dive-Into-The-FDA/blob/master/img/top_5_brands_all_holidays.png">
 </p>
 
-### Top Five Reactions Brands Across All Holiday
+### Top Five Reactions Across All Holidays
+Drug ineffectiveness was the most frequent reaction across all the observed holidays at 30.2%, death made up 20.7% of the data while nausea made up 17.2% of the data.
 <p align="center">
   <img src="https://github.com/anthonytapias/Adverse-Drug-Events-A-Deep-Dive-Into-The-FDA/blob/master/img/top_5_reactions_all_holidays.png">
 </p>
 
-### Death and Suicides Across All Holiday
+### Deaths Across All Holidays
+Here are our obversations of the data we acquired containing the number of deaths per holiday. Cinco de Mayo had the most observed deaths, followed by Mardi Gras and Valentines Day. 
 <p align="center">
   <img src="https://github.com/anthonytapias/Adverse-Drug-Events-A-Deep-Dive-Into-The-FDA/blob/master/img/deaths_and_suicides_with_bottomtab.png">
 </p>
+
+### Suicides Across All Holidays
+
+<p align="center">
+  <img src="https://github.com/anthonytapias/Adverse-Drug-Events-A-Deep-Dive-Into-The-FDA/blob/master/img/deaths_and_suicides_with_bottomtab.png">
+</p>
+
+### Attempted Suicides Across All Holidays
+
+<p align="center">
+  <img src="https://github.com/anthonytapias/Adverse-Drug-Events-A-Deep-Dive-Into-The-FDA/blob/master/img/deaths_and_suicides_with_bottomtab.png">
+</p>
+
 
 ### Gender Analysis per Holiday
 <p align="center">
