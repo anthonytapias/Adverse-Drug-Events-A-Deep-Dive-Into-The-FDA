@@ -71,6 +71,7 @@ Halloween had the most attempted suicides followed by Valentines day and Hallowe
 
 
 ### Gender Analysis per Holiday
+Below is an example of the gender analysis of Christmas. We found that in all the holidays, there were a larger percentage of women that were hospitilized because of a drug adverse event. This finding was particulary very interesting.
 <p align="center">
   <img src="https://github.com/anthonytapias/Adverse-Drug-Events-A-Deep-Dive-Into-The-FDA/blob/master/img/gender_analysis.png">
 </p>
