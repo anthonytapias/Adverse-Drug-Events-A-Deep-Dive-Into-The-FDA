@@ -29,7 +29,7 @@ Here is what we found: We found that auto-immune disease medication came up freq
 ### Top Five Reactions of one Holiday
 We found that death had the most reactions on Christmas making up 28.4% of drug related events while drug ineffectiveness made up 25.1% of the drug related events. Interestingly off-label use made up the third most of drug related events at 19.4%.
 <p align="center">
-  <img width="600" height="600" src="https://github.com/anthonytapias/Adverse-Drug-Events-A-Deep-Dive-Into-The-FDA/blob/master/img/top_5_reactions_christmas.png">
+  <img width="600" height="575" src="https://github.com/anthonytapias/Adverse-Drug-Events-A-Deep-Dive-Into-The-FDA/blob/master/img/top_5_reactions_christmas.png">
 </p>
 
 
